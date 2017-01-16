@@ -1,7 +1,7 @@
 {
   "name": "pandora-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Pandora syntax theme for Atom editor",
   "author": "Milos Matic <milos.matic@gmail.com>",
   "keywords": [
